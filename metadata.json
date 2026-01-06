@@ -1,0 +1,7 @@
+{
+  "name": "Sonify: Musical Role Assessment",
+  "description": "A high-fidelity personality assessment tool for musicians to discover their natural archetypes in bands, choirs, and creative teams.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
